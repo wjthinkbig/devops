@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
+title: Woongjin ThinkBig Tech Blog
 description: A Jekyll theme for documentation
 baseurl: "/devops" # the subpath of your site, e.g. /blog
 url: "https://wjthinkbig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Woongjin ThinkBig TECH BLOG":
+  "Just the Docs on GitHub":
     - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
